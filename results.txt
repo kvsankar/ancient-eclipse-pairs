@@ -1,0 +1,1260 @@
+Searching for eclipse pairs from 3100 BC to 2999 BC
+Testing 10 locations
+================================================================================
+Phase 1: Finding all eclipses in the period...
+  Solar eclipse: -3100 BC, 01-11
+  Solar eclipse: -3100 BC, 02-10
+  Solar eclipse: -3100 BC, 07-07
+  Solar eclipse: -3100 BC, 08-06
+  Solar eclipse: -3099 BC, 01-01
+  Solar eclipse: -3099 BC, 06-26
+  Solar eclipse: -3099 BC, 12-21
+  Solar eclipse: -3098 BC, 06-15
+  Solar eclipse: -3098 BC, 12-11
+  Solar eclipse: -3097 BC, 06-05
+  Solar eclipse: -3097 BC, 10-31
+  Solar eclipse: -3096 BC, 04-25
+  Solar eclipse: -3096 BC, 05-25
+  Solar eclipse: -3096 BC, 10-19
+  Solar eclipse: -3095 BC, 04-15
+  Solar eclipse: -3095 BC, 10-08
+  Solar eclipse: -3094 BC, 04-04
+  Solar eclipse: -3094 BC, 09-28
+  Solar eclipse: -3093 BC, 03-24
+  Solar eclipse: -3093 BC, 08-19
+  Solar eclipse: -3093 BC, 09-18
+  Solar eclipse: -3092 BC, 02-12
+  Solar eclipse: -3092 BC, 08-08
+  Solar eclipse: -3091 BC, 01-31
+  Solar eclipse: -3091 BC, 07-28
+  Solar eclipse: -3090 BC, 01-21
+  Solar eclipse: -3090 BC, 07-17
+  Solar eclipse: -3090 BC, 12-12
+  Solar eclipse: -3089 BC, 01-11
+  Solar eclipse: -3089 BC, 06-06
+  Solar eclipse: -3089 BC, 07-06
+  Solar eclipse: -3089 BC, 12-02
+  Solar eclipse: -3088 BC, 05-26
+  Solar eclipse: -3088 BC, 11-20
+  Solar eclipse: -3087 BC, 05-16
+  Solar eclipse: -3087 BC, 11-09
+  Solar eclipse: -3086 BC, 05-05
+  Solar eclipse: -3086 BC, 09-29
+  Solar eclipse: -3086 BC, 10-29
+  Solar eclipse: -3085 BC, 03-26
+  Solar eclipse: -3085 BC, 09-19
+  Solar eclipse: -3084 BC, 03-14
+  Solar eclipse: -3084 BC, 09-08
+  Solar eclipse: -3083 BC, 03-03
+  Solar eclipse: -3083 BC, 08-28
+  Solar eclipse: -3082 BC, 01-22
+  Solar eclipse: -3082 BC, 02-21
+  Solar eclipse: -3082 BC, 07-18
+  Solar eclipse: -3082 BC, 08-17
+  Solar eclipse: -3081 BC, 01-12
+  Solar eclipse: -3081 BC, 07-07
+  Solar eclipse: -3080 BC, 01-02
+  Solar eclipse: -3080 BC, 06-26
+  Solar eclipse: -3080 BC, 12-21
+  Solar eclipse: -3079 BC, 06-15
+  Solar eclipse: -3079 BC, 11-10
+  Solar eclipse: -3078 BC, 05-07
+  Solar eclipse: -3078 BC, 06-05
+  Solar eclipse: -3078 BC, 10-30
+  Solar eclipse: -3077 BC, 04-26
+  Solar eclipse: -3077 BC, 10-20
+  Solar eclipse: -3076 BC, 04-15
+  Solar eclipse: -3076 BC, 10-08
+  Solar eclipse: -3075 BC, 04-04
+  Solar eclipse: -3075 BC, 08-30
+  Solar eclipse: -3075 BC, 09-28
+  Solar eclipse: -3074 BC, 02-22
+  Solar eclipse: -3074 BC, 08-19
+  Solar eclipse: -3073 BC, 02-12
+  Solar eclipse: -3073 BC, 08-08
+  Solar eclipse: -3072 BC, 02-02
+  Solar eclipse: -3072 BC, 07-27
+  Solar eclipse: -3072 BC, 12-23
+  Solar eclipse: -3071 BC, 01-21
+  Solar eclipse: -3071 BC, 06-17
+  Solar eclipse: -3071 BC, 07-16
+  Solar eclipse: -3071 BC, 12-12
+  Solar eclipse: -3070 BC, 06-06
+  Solar eclipse: -3070 BC, 12-01
+  Solar eclipse: -3069 BC, 05-27
+  Solar eclipse: -3069 BC, 11-20
+  Solar eclipse: -3068 BC, 05-16
+  Solar eclipse: -3068 BC, 10-10
+  Solar eclipse: -3068 BC, 11-08
+  Solar eclipse: -3067 BC, 04-05
+  Solar eclipse: -3067 BC, 09-29
+  Solar eclipse: -3066 BC, 03-25
+  Solar eclipse: -3066 BC, 09-19
+  Solar eclipse: -3065 BC, 03-15
+  Solar eclipse: -3065 BC, 09-08
+  Solar eclipse: -3064 BC, 02-03
+  Solar eclipse: -3064 BC, 03-03
+  Solar eclipse: -3064 BC, 07-29
+  Solar eclipse: -3064 BC, 08-28
+  Solar eclipse: -3063 BC, 01-23
+  Solar eclipse: -3063 BC, 07-18
+  Solar eclipse: -3062 BC, 01-12
+  Solar eclipse: -3062 BC, 07-07
+  Solar eclipse: -3061 BC, 01-01
+  Solar eclipse: -3061 BC, 06-27
+  Solar eclipse: -3061 BC, 11-22
+  Solar eclipse: -3060 BC, 05-17
+  Solar eclipse: -3060 BC, 06-15
+  Solar eclipse: -3060 BC, 11-10
+  Solar eclipse: -3059 BC, 05-07
+  Solar eclipse: -3059 BC, 10-30
+  Solar eclipse: -3058 BC, 04-26
+  Solar eclipse: -3058 BC, 10-20
+  Solar eclipse: -3057 BC, 04-15
+  Solar eclipse: -3057 BC, 09-10
+  Solar eclipse: -3057 BC, 10-09
+  Solar eclipse: -3056 BC, 03-05
+  Solar eclipse: -3056 BC, 08-29
+  Solar eclipse: -3055 BC, 02-22
+  Solar eclipse: -3055 BC, 08-18
+  Solar eclipse: -3054 BC, 02-12
+  Solar eclipse: -3054 BC, 08-07
+  Solar eclipse: -3053 BC, 01-03
+  Solar eclipse: -3053 BC, 02-01
+  Solar eclipse: -3053 BC, 06-28
+  Solar eclipse: -3053 BC, 07-28
+  Solar eclipse: -3053 BC, 12-23
+  Solar eclipse: -3052 BC, 06-17
+  Solar eclipse: -3052 BC, 12-11
+  Solar eclipse: -3051 BC, 06-06
+  Solar eclipse: -3051 BC, 11-30
+  Solar eclipse: -3050 BC, 05-27
+  Solar eclipse: -3050 BC, 10-21
+  Solar eclipse: -3050 BC, 11-20
+  Solar eclipse: -3049 BC, 04-17
+  Solar eclipse: -3049 BC, 10-11
+  Solar eclipse: -3048 BC, 04-05
+  Solar eclipse: -3048 BC, 09-29
+  Solar eclipse: -3047 BC, 03-25
+  Solar eclipse: -3047 BC, 09-19
+  Solar eclipse: -3046 BC, 02-13
+  Solar eclipse: -3046 BC, 03-14
+  Solar eclipse: -3046 BC, 09-08
+  Solar eclipse: -3045 BC, 02-03
+  Solar eclipse: -3045 BC, 07-29
+  Solar eclipse: -3044 BC, 01-23
+  Solar eclipse: -3044 BC, 07-17
+  Solar eclipse: -3043 BC, 01-12
+  Solar eclipse: -3043 BC, 07-07
+  Solar eclipse: -3043 BC, 12-02
+  Solar eclipse: -3042 BC, 01-01
+  Solar eclipse: -3042 BC, 05-28
+  Solar eclipse: -3042 BC, 06-27
+  Solar eclipse: -3042 BC, 11-21
+  Solar eclipse: -3041 BC, 05-18
+  Solar eclipse: -3041 BC, 11-11
+  Solar eclipse: -3040 BC, 05-06
+  Solar eclipse: -3040 BC, 10-30
+  Solar eclipse: -3039 BC, 04-25
+  Solar eclipse: -3039 BC, 09-20
+  Solar eclipse: -3039 BC, 10-20
+  Solar eclipse: -3038 BC, 03-16
+  Solar eclipse: -3038 BC, 09-10
+  Solar eclipse: -3037 BC, 03-05
+  Solar eclipse: -3037 BC, 08-30
+  Solar eclipse: -3036 BC, 02-23
+  Solar eclipse: -3036 BC, 08-18
+  Solar eclipse: -3035 BC, 01-13
+  Solar eclipse: -3035 BC, 02-12
+  Solar eclipse: -3035 BC, 07-08
+  Solar eclipse: -3035 BC, 08-07
+  Solar eclipse: -3034 BC, 01-03
+  Solar eclipse: -3034 BC, 06-28
+  Solar eclipse: -3034 BC, 12-23
+  Solar eclipse: -3033 BC, 06-18
+  Solar eclipse: -3033 BC, 12-12
+  Solar eclipse: -3032 BC, 06-06
+  Solar eclipse: -3032 BC, 11-01
+  Solar eclipse: -3032 BC, 11-30
+  Solar eclipse: -3031 BC, 04-27
+  Solar eclipse: -3031 BC, 10-21
+  Solar eclipse: -3030 BC, 04-16
+  Solar eclipse: -3030 BC, 10-11
+  Solar eclipse: -3029 BC, 04-05
+  Solar eclipse: -3029 BC, 09-30
+  Solar eclipse: -3028 BC, 02-24
+  Solar eclipse: -3028 BC, 03-25
+  Solar eclipse: -3028 BC, 09-18
+  Solar eclipse: -3027 BC, 02-13
+  Solar eclipse: -3027 BC, 08-08
+  Solar eclipse: -3026 BC, 02-03
+  Solar eclipse: -3026 BC, 07-29
+  Solar eclipse: -3025 BC, 01-23
+  Solar eclipse: -3025 BC, 07-18
+  Solar eclipse: -3025 BC, 12-13
+  Solar eclipse: -3024 BC, 01-12
+  Solar eclipse: -3024 BC, 06-08
+  Solar eclipse: -3024 BC, 07-07
+  Solar eclipse: -3024 BC, 12-01
+  Solar eclipse: -3023 BC, 05-28
+  Solar eclipse: -3023 BC, 11-21
+  Solar eclipse: -3022 BC, 05-17
+  Solar eclipse: -3022 BC, 11-11
+  Solar eclipse: -3021 BC, 05-06
+  Solar eclipse: -3021 BC, 10-02
+  Solar eclipse: -3021 BC, 10-31
+  Solar eclipse: -3020 BC, 03-26
+  Solar eclipse: -3020 BC, 09-20
+  Solar eclipse: -3019 BC, 03-16
+  Solar eclipse: -3019 BC, 09-09
+  Solar eclipse: -3018 BC, 03-05
+  Solar eclipse: -3018 BC, 08-29
+  Solar eclipse: -3017 BC, 01-25
+  Solar eclipse: -3017 BC, 02-23
+  Solar eclipse: -3017 BC, 07-20
+  Solar eclipse: -3017 BC, 08-18
+  Solar eclipse: -3016 BC, 01-14
+  Solar eclipse: -3016 BC, 07-08
+  Solar eclipse: -3015 BC, 01-02
+  Solar eclipse: -3015 BC, 06-28
+  Solar eclipse: -3015 BC, 12-22
+  Solar eclipse: -3014 BC, 06-18
+  Solar eclipse: -3014 BC, 11-12
+  Solar eclipse: -3014 BC, 12-11
+  Solar eclipse: -3013 BC, 05-08
+  Solar eclipse: -3013 BC, 06-07
+  Solar eclipse: -3013 BC, 11-02
+  Solar eclipse: -3012 BC, 04-26
+  Solar eclipse: -3012 BC, 10-21
+  Solar eclipse: -3011 BC, 04-15
+  Solar eclipse: -3011 BC, 10-10
+  Solar eclipse: -3010 BC, 03-07
+  Solar eclipse: -3010 BC, 04-05
+  Solar eclipse: -3010 BC, 09-30
+  Solar eclipse: -3009 BC, 02-24
+  Solar eclipse: -3009 BC, 08-20
+  Solar eclipse: -3008 BC, 02-14
+  Solar eclipse: -3008 BC, 08-08
+  Solar eclipse: -3007 BC, 02-02
+  Solar eclipse: -3007 BC, 07-29
+  Solar eclipse: -3007 BC, 12-24
+  Solar eclipse: -3006 BC, 01-22
+  Solar eclipse: -3006 BC, 06-19
+  Solar eclipse: -3006 BC, 07-18
+  Solar eclipse: -3006 BC, 12-13
+  Solar eclipse: -3005 BC, 06-08
+  Solar eclipse: -3005 BC, 12-02
+  Solar eclipse: -3004 BC, 05-28
+  Solar eclipse: -3004 BC, 11-21
+  Solar eclipse: -3003 BC, 05-17
+  Solar eclipse: -3003 BC, 10-12
+  Solar eclipse: -3003 BC, 11-11
+  Solar eclipse: -3002 BC, 04-06
+  Solar eclipse: -3002 BC, 05-06
+  Solar eclipse: -3002 BC, 10-01
+  Solar eclipse: -3001 BC, 03-27
+  Solar eclipse: -3001 BC, 09-20
+  Solar eclipse: -3000 BC, 03-17
+  Solar eclipse: -3000 BC, 09-09
+  Solar eclipse: -2999 BC, 02-05
+  Solar eclipse: -2999 BC, 03-06
+  Solar eclipse: -2999 BC, 07-31
+  Solar eclipse: -2999 BC, 08-30
+  Lunar eclipse: -3100 BC, 01-26
+  Lunar eclipse: -3100 BC, 07-22
+  Lunar eclipse: -3099 BC, 01-15
+  Lunar eclipse: -3099 BC, 07-11
+  Lunar eclipse: -3099 BC, 12-06
+  Lunar eclipse: -3098 BC, 01-04
+  Lunar eclipse: -3098 BC, 06-02
+  Lunar eclipse: -3098 BC, 07-01
+  Lunar eclipse: -3098 BC, 11-25
+  Lunar eclipse: -3097 BC, 05-22
+  Lunar eclipse: -3097 BC, 11-15
+  Lunar eclipse: -3096 BC, 05-10
+  Lunar eclipse: -3096 BC, 11-04
+  Lunar eclipse: -3095 BC, 04-29
+  Lunar eclipse: -3095 BC, 09-24
+  Lunar eclipse: -3095 BC, 10-24
+  Lunar eclipse: -3094 BC, 03-20
+  Lunar eclipse: -3094 BC, 09-13
+  Lunar eclipse: -3093 BC, 03-10
+  Lunar eclipse: -3093 BC, 09-02
+  Lunar eclipse: -3092 BC, 02-27
+  Lunar eclipse: -3092 BC, 08-22
+  Lunar eclipse: -3091 BC, 01-17
+  Lunar eclipse: -3091 BC, 02-16
+  Lunar eclipse: -3091 BC, 07-13
+  Lunar eclipse: -3091 BC, 08-11
+  Lunar eclipse: -3090 BC, 01-06
+  Lunar eclipse: -3090 BC, 07-02
+  Lunar eclipse: -3090 BC, 12-26
+  Lunar eclipse: -3089 BC, 06-22
+  Lunar eclipse: -3089 BC, 12-16
+  Lunar eclipse: -3088 BC, 06-10
+  Lunar eclipse: -3088 BC, 11-05
+  Lunar eclipse: -3088 BC, 12-04
+  Lunar eclipse: -3087 BC, 05-01
+  Lunar eclipse: -3087 BC, 10-26
+  Lunar eclipse: -3086 BC, 04-20
+  Lunar eclipse: -3086 BC, 10-15
+  Lunar eclipse: -3085 BC, 04-09
+  Lunar eclipse: -3085 BC, 10-04
+  Lunar eclipse: -3084 BC, 02-29
+  Lunar eclipse: -3084 BC, 03-29
+  Lunar eclipse: -3084 BC, 08-23
+  Lunar eclipse: -3084 BC, 09-22
+  Lunar eclipse: -3083 BC, 02-17
+  Lunar eclipse: -3083 BC, 08-13
+  Lunar eclipse: -3082 BC, 02-07
+  Lunar eclipse: -3082 BC, 08-02
+  Lunar eclipse: -3081 BC, 01-27
+  Lunar eclipse: -3081 BC, 07-23
+  Lunar eclipse: -3081 BC, 12-17
+  Lunar eclipse: -3080 BC, 01-16
+  Lunar eclipse: -3080 BC, 06-12
+  Lunar eclipse: -3080 BC, 07-11
+  Lunar eclipse: -3080 BC, 12-06
+  Lunar eclipse: -3079 BC, 06-01
+  Lunar eclipse: -3079 BC, 11-25
+  Lunar eclipse: -3078 BC, 05-21
+  Lunar eclipse: -3078 BC, 11-15
+  Lunar eclipse: -3077 BC, 05-10
+  Lunar eclipse: -3077 BC, 10-06
+  Lunar eclipse: -3077 BC, 11-04
+  Lunar eclipse: -3076 BC, 03-30
+  Lunar eclipse: -3076 BC, 09-24
+  Lunar eclipse: -3075 BC, 03-20
+  Lunar eclipse: -3075 BC, 09-13
+  Lunar eclipse: -3074 BC, 03-10
+  Lunar eclipse: -3074 BC, 09-02
+  Lunar eclipse: -3073 BC, 01-28
+  Lunar eclipse: -3073 BC, 02-27
+  Lunar eclipse: -3073 BC, 07-24
+  Lunar eclipse: -3073 BC, 08-23
+  Lunar eclipse: -3072 BC, 01-17
+  Lunar eclipse: -3072 BC, 07-13
+  Lunar eclipse: -3071 BC, 01-06
+  Lunar eclipse: -3071 BC, 07-02
+  Lunar eclipse: -3071 BC, 12-26
+  Lunar eclipse: -3070 BC, 06-21
+  Lunar eclipse: -3070 BC, 11-16
+  Lunar eclipse: -3070 BC, 12-16
+  Lunar eclipse: -3069 BC, 05-12
+  Lunar eclipse: -3069 BC, 06-10
+  Lunar eclipse: -3069 BC, 11-06
+  Lunar eclipse: -3068 BC, 04-30
+  Lunar eclipse: -3068 BC, 10-25
+  Lunar eclipse: -3067 BC, 04-20
+  Lunar eclipse: -3067 BC, 10-14
+  Lunar eclipse: -3066 BC, 03-11
+  Lunar eclipse: -3066 BC, 04-09
+  Lunar eclipse: -3066 BC, 09-04
+  Lunar eclipse: -3066 BC, 10-03
+  Lunar eclipse: -3065 BC, 03-01
+  Lunar eclipse: -3065 BC, 08-24
+  Lunar eclipse: -3064 BC, 02-18
+  Lunar eclipse: -3064 BC, 08-13
+  Lunar eclipse: -3063 BC, 02-06
+  Lunar eclipse: -3063 BC, 08-02
+  Lunar eclipse: -3063 BC, 12-28
+  Lunar eclipse: -3062 BC, 01-26
+  Lunar eclipse: -3062 BC, 06-23
+  Lunar eclipse: -3062 BC, 07-23
+  Lunar eclipse: -3062 BC, 12-17
+  Lunar eclipse: -3061 BC, 06-12
+  Lunar eclipse: -3061 BC, 12-07
+  Lunar eclipse: -3060 BC, 05-31
+  Lunar eclipse: -3060 BC, 11-25
+  Lunar eclipse: -3059 BC, 05-21
+  Lunar eclipse: -3059 BC, 10-16
+  Lunar eclipse: -3059 BC, 11-15
+  Lunar eclipse: -3058 BC, 04-11
+  Lunar eclipse: -3058 BC, 05-10
+  Lunar eclipse: -3058 BC, 10-05
+  Lunar eclipse: -3057 BC, 03-31
+  Lunar eclipse: -3057 BC, 09-24
+  Lunar eclipse: -3056 BC, 03-20
+  Lunar eclipse: -3056 BC, 09-12
+  Lunar eclipse: -3055 BC, 02-08
+  Lunar eclipse: -3055 BC, 03-09
+  Lunar eclipse: -3055 BC, 08-04
+  Lunar eclipse: -3055 BC, 09-02
+  Lunar eclipse: -3054 BC, 01-28
+  Lunar eclipse: -3054 BC, 07-24
+  Lunar eclipse: -3053 BC, 01-17
+  Lunar eclipse: -3053 BC, 07-14
+  Lunar eclipse: -3052 BC, 01-06
+  Lunar eclipse: -3052 BC, 07-02
+  Lunar eclipse: -3052 BC, 11-27
+  Lunar eclipse: -3052 BC, 12-26
+  Lunar eclipse: -3051 BC, 05-22
+  Lunar eclipse: -3051 BC, 06-21
+  Lunar eclipse: -3051 BC, 11-16
+  Lunar eclipse: -3050 BC, 05-11
+  Lunar eclipse: -3050 BC, 11-06
+  Lunar eclipse: -3049 BC, 05-01
+  Lunar eclipse: -3049 BC, 10-26
+  Lunar eclipse: -3048 BC, 04-20
+  Lunar eclipse: -3048 BC, 09-14
+  Lunar eclipse: -3048 BC, 10-14
+  Lunar eclipse: -3047 BC, 03-11
+  Lunar eclipse: -3047 BC, 09-03
+  Lunar eclipse: -3046 BC, 02-28
+  Lunar eclipse: -3046 BC, 08-24
+  Lunar eclipse: -3045 BC, 02-17
+  Lunar eclipse: -3045 BC, 08-14
+  Lunar eclipse: -3044 BC, 01-08
+  Lunar eclipse: -3044 BC, 02-06
+  Lunar eclipse: -3044 BC, 07-03
+  Lunar eclipse: -3044 BC, 08-02
+  Lunar eclipse: -3044 BC, 12-27
+  Lunar eclipse: -3043 BC, 06-23
+  Lunar eclipse: -3043 BC, 12-17
+  Lunar eclipse: -3042 BC, 06-12
+  Lunar eclipse: -3042 BC, 12-07
+  Lunar eclipse: -3041 BC, 06-01
+  Lunar eclipse: -3041 BC, 10-27
+  Lunar eclipse: -3041 BC, 11-26
+  Lunar eclipse: -3040 BC, 04-21
+  Lunar eclipse: -3040 BC, 05-20
+  Lunar eclipse: -3040 BC, 10-15
+  Lunar eclipse: -3039 BC, 04-11
+  Lunar eclipse: -3039 BC, 10-04
+  Lunar eclipse: -3038 BC, 03-31
+  Lunar eclipse: -3038 BC, 09-24
+  Lunar eclipse: -3037 BC, 03-21
+  Lunar eclipse: -3037 BC, 08-15
+  Lunar eclipse: -3037 BC, 09-13
+  Lunar eclipse: -3036 BC, 02-08
+  Lunar eclipse: -3036 BC, 08-03
+  Lunar eclipse: -3035 BC, 01-27
+  Lunar eclipse: -3035 BC, 07-24
+  Lunar eclipse: -3034 BC, 01-17
+  Lunar eclipse: -3034 BC, 07-13
+  Lunar eclipse: -3034 BC, 12-08
+  Lunar eclipse: -3033 BC, 01-06
+  Lunar eclipse: -3033 BC, 06-02
+  Lunar eclipse: -3033 BC, 07-02
+  Lunar eclipse: -3033 BC, 11-28
+  Lunar eclipse: -3032 BC, 05-22
+  Lunar eclipse: -3032 BC, 11-16
+  Lunar eclipse: -3031 BC, 05-11
+  Lunar eclipse: -3031 BC, 11-05
+  Lunar eclipse: -3030 BC, 05-01
+  Lunar eclipse: -3030 BC, 09-25
+  Lunar eclipse: -3030 BC, 10-25
+  Lunar eclipse: -3029 BC, 03-22
+  Lunar eclipse: -3029 BC, 09-15
+  Lunar eclipse: -3028 BC, 03-11
+  Lunar eclipse: -3028 BC, 09-03
+  Lunar eclipse: -3027 BC, 02-28
+  Lunar eclipse: -3027 BC, 08-24
+  Lunar eclipse: -3026 BC, 01-18
+  Lunar eclipse: -3026 BC, 02-17
+  Lunar eclipse: -3026 BC, 07-15
+  Lunar eclipse: -3026 BC, 08-13
+  Lunar eclipse: -3025 BC, 01-08
+  Lunar eclipse: -3025 BC, 07-04
+  Lunar eclipse: -3025 BC, 12-28
+  Lunar eclipse: -3024 BC, 06-22
+  Lunar eclipse: -3024 BC, 12-17
+  Lunar eclipse: -3023 BC, 06-11
+  Lunar eclipse: -3023 BC, 11-07
+  Lunar eclipse: -3023 BC, 12-06
+  Lunar eclipse: -3022 BC, 05-02
+  Lunar eclipse: -3022 BC, 06-01
+  Lunar eclipse: -3022 BC, 10-27
+  Lunar eclipse: -3021 BC, 04-22
+  Lunar eclipse: -3021 BC, 10-16
+  Lunar eclipse: -3020 BC, 04-11
+  Lunar eclipse: -3020 BC, 10-04
+  Lunar eclipse: -3019 BC, 03-31
+  Lunar eclipse: -3019 BC, 08-25
+  Lunar eclipse: -3019 BC, 09-24
+  Lunar eclipse: -3018 BC, 02-18
+  Lunar eclipse: -3018 BC, 08-15
+  Lunar eclipse: -3017 BC, 02-08
+  Lunar eclipse: -3017 BC, 08-04
+  Lunar eclipse: -3016 BC, 01-28
+  Lunar eclipse: -3016 BC, 07-23
+  Lunar eclipse: -3016 BC, 12-18
+  Lunar eclipse: -3015 BC, 01-17
+  Lunar eclipse: -3015 BC, 06-13
+  Lunar eclipse: -3015 BC, 07-12
+  Lunar eclipse: -3015 BC, 12-08
+  Lunar eclipse: -3014 BC, 06-02
+  Lunar eclipse: -3014 BC, 11-27
+  Lunar eclipse: -3013 BC, 05-23
+  Lunar eclipse: -3013 BC, 11-16
+  Lunar eclipse: -3012 BC, 05-11
+  Lunar eclipse: -3012 BC, 10-06
+  Lunar eclipse: -3012 BC, 11-04
+  Lunar eclipse: -3011 BC, 04-02
+  Lunar eclipse: -3011 BC, 09-25
+  Lunar eclipse: -3010 BC, 03-22
+  Lunar eclipse: -3010 BC, 09-15
+  Lunar eclipse: -3009 BC, 03-11
+  Lunar eclipse: -3009 BC, 09-04
+  Lunar eclipse: -3008 BC, 01-30
+  Lunar eclipse: -3008 BC, 02-28
+  Lunar eclipse: -3008 BC, 07-25
+  Lunar eclipse: -3008 BC, 08-24
+  Lunar eclipse: -3007 BC, 01-18
+  Lunar eclipse: -3007 BC, 07-14
+  Lunar eclipse: -3006 BC, 01-08
+  Lunar eclipse: -3006 BC, 07-03
+  Lunar eclipse: -3006 BC, 12-28
+  Lunar eclipse: -3005 BC, 06-22
+  Lunar eclipse: -3005 BC, 11-18
+  Lunar eclipse: -3005 BC, 12-18
+  Lunar eclipse: -3004 BC, 05-13
+  Lunar eclipse: -3004 BC, 06-11
+  Lunar eclipse: -3004 BC, 11-06
+  Lunar eclipse: -3003 BC, 05-02
+  Lunar eclipse: -3003 BC, 10-26
+  Lunar eclipse: -3002 BC, 04-22
+  Lunar eclipse: -3002 BC, 10-15
+  Lunar eclipse: -3001 BC, 04-11
+  Lunar eclipse: -3001 BC, 09-06
+  Lunar eclipse: -3001 BC, 10-05
+  Lunar eclipse: -3000 BC, 03-02
+  Lunar eclipse: -3000 BC, 08-26
+  Lunar eclipse: -2999 BC, 02-19
+  Lunar eclipse: -2999 BC, 08-16
+
+Found 258 solar and 262 lunar eclipses
+Total: 520 eclipses
+
+Phase 2: Finding pairs within 15 days...
+================================================================================
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3100 BC 01-26
+  Eclipse 2: solar  on 3100 BC 02-10
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: solar  on 3100 BC 07-07
+  Eclipse 2: lunar  on 3100 BC 07-22
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: solar  on 3099 BC 01-01
+  Eclipse 2: lunar  on 3099 BC 01-15
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3099 BC 12-21
+  Eclipse 2: lunar  on 3098 BC 01-04
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3098 BC 06-02
+  Eclipse 2: solar  on 3098 BC 06-15
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: lunar  on 3097 BC 05-22
+  Eclipse 2: solar  on 3097 BC 06-05
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: solar  on 3097 BC 10-31
+  Eclipse 2: lunar  on 3097 BC 11-15
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3096 BC 04-25
+  Eclipse 2: lunar  on 3096 BC 05-10
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3095 BC 04-15
+  Eclipse 2: lunar  on 3095 BC 04-29
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3095 BC 09-24
+  Eclipse 2: solar  on 3095 BC 10-08
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: lunar  on 3094 BC 09-13
+  Eclipse 2: solar  on 3094 BC 09-28
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: lunar  on 3093 BC 03-10
+  Eclipse 2: solar  on 3093 BC 03-24
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3093 BC 08-19
+  Eclipse 2: lunar  on 3093 BC 09-02
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3092 BC 08-08
+  Eclipse 2: lunar  on 3092 BC 08-22
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3091 BC 01-17
+  Eclipse 2: solar  on 3091 BC 01-31
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: lunar  on 3091 BC 07-13
+  Eclipse 2: solar  on 3091 BC 07-28
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: solar  on 3091 BC 07-28
+  Eclipse 2: lunar  on 3091 BC 08-11
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: lunar  on 3090 BC 01-06
+  Eclipse 2: solar  on 3090 BC 01-21
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3090 BC 07-02
+  Eclipse 2: solar  on 3090 BC 07-17
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3090 BC 12-12
+  Eclipse 2: lunar  on 3090 BC 12-26
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3089 BC 06-22
+  Eclipse 2: solar  on 3089 BC 07-06
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3089 BC 12-02
+  Eclipse 2: lunar  on 3089 BC 12-16
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: lunar  on 3088 BC 11-05
+  Eclipse 2: solar  on 3088 BC 11-20
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3088 BC 11-20
+  Eclipse 2: lunar  on 3088 BC 12-04
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3087 BC 10-26
+  Eclipse 2: solar  on 3087 BC 11-09
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3086 BC 10-15
+  Eclipse 2: solar  on 3086 BC 10-29
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: solar  on 3085 BC 03-26
+  Eclipse 2: lunar  on 3085 BC 04-09
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3085 BC 09-19
+  Eclipse 2: lunar  on 3085 BC 10-04
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3084 BC 02-29
+  Eclipse 2: solar  on 3084 BC 03-14
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3084 BC 09-08
+  Eclipse 2: lunar  on 3084 BC 09-22
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3083 BC 02-17
+  Eclipse 2: solar  on 3083 BC 03-03
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3082 BC 02-07
+  Eclipse 2: solar  on 3082 BC 02-21
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: solar  on 3082 BC 07-18
+  Eclipse 2: lunar  on 3082 BC 08-02
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: solar  on 3081 BC 01-12
+  Eclipse 2: lunar  on 3081 BC 01-27
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3080 BC 01-02
+  Eclipse 2: lunar  on 3080 BC 01-16
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3080 BC 06-12
+  Eclipse 2: solar  on 3080 BC 06-26
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: lunar  on 3079 BC 06-01
+  Eclipse 2: solar  on 3079 BC 06-15
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3078 BC 05-07
+  Eclipse 2: lunar  on 3078 BC 05-21
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3077 BC 04-26
+  Eclipse 2: lunar  on 3077 BC 05-10
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3077 BC 10-06
+  Eclipse 2: solar  on 3077 BC 10-20
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: lunar  on 3076 BC 09-24
+  Eclipse 2: solar  on 3076 BC 10-08
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: lunar  on 3075 BC 03-20
+  Eclipse 2: solar  on 3075 BC 04-04
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3075 BC 08-30
+  Eclipse 2: lunar  on 3075 BC 09-13
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3074 BC 08-19
+  Eclipse 2: lunar  on 3074 BC 09-02
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3073 BC 01-28
+  Eclipse 2: solar  on 3073 BC 02-12
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: lunar  on 3073 BC 07-24
+  Eclipse 2: solar  on 3073 BC 08-08
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: solar  on 3073 BC 08-08
+  Eclipse 2: lunar  on 3073 BC 08-23
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3072 BC 07-13
+  Eclipse 2: solar  on 3072 BC 07-27
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3072 BC 12-23
+  Eclipse 2: lunar  on 3071 BC 01-06
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3071 BC 07-02
+  Eclipse 2: solar  on 3071 BC 07-16
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3071 BC 12-12
+  Eclipse 2: lunar  on 3071 BC 12-26
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: lunar  on 3070 BC 11-16
+  Eclipse 2: solar  on 3070 BC 12-01
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3070 BC 12-01
+  Eclipse 2: lunar  on 3070 BC 12-16
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: solar  on 3069 BC 05-27
+  Eclipse 2: lunar  on 3069 BC 06-10
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3069 BC 11-06
+  Eclipse 2: solar  on 3069 BC 11-20
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3068 BC 10-25
+  Eclipse 2: solar  on 3068 BC 11-08
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: solar  on 3067 BC 04-05
+  Eclipse 2: lunar  on 3067 BC 04-20
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3067 BC 09-29
+  Eclipse 2: lunar  on 3067 BC 10-14
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3066 BC 03-11
+  Eclipse 2: solar  on 3066 BC 03-25
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3066 BC 09-19
+  Eclipse 2: lunar  on 3066 BC 10-03
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3065 BC 03-01
+  Eclipse 2: solar  on 3065 BC 03-15
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3064 BC 02-18
+  Eclipse 2: solar  on 3064 BC 03-03
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3064 BC 07-29
+  Eclipse 2: lunar  on 3064 BC 08-13
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: lunar  on 3064 BC 08-13
+  Eclipse 2: solar  on 3064 BC 08-28
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: solar  on 3063 BC 01-23
+  Eclipse 2: lunar  on 3063 BC 02-06
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3062 BC 01-12
+  Eclipse 2: lunar  on 3062 BC 01-26
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3062 BC 06-23
+  Eclipse 2: solar  on 3062 BC 07-07
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: lunar  on 3061 BC 06-12
+  Eclipse 2: solar  on 3061 BC 06-27
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3060 BC 05-17
+  Eclipse 2: lunar  on 3060 BC 05-31
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3059 BC 05-07
+  Eclipse 2: lunar  on 3059 BC 05-21
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3059 BC 10-16
+  Eclipse 2: solar  on 3059 BC 10-30
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: solar  on 3058 BC 04-26
+  Eclipse 2: lunar  on 3058 BC 05-10
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3058 BC 10-05
+  Eclipse 2: solar  on 3058 BC 10-20
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3057 BC 03-31
+  Eclipse 2: solar  on 3057 BC 04-15
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3057 BC 09-10
+  Eclipse 2: lunar  on 3057 BC 09-24
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3056 BC 08-29
+  Eclipse 2: lunar  on 3056 BC 09-12
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: lunar  on 3055 BC 02-08
+  Eclipse 2: solar  on 3055 BC 02-22
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: lunar  on 3055 BC 08-04
+  Eclipse 2: solar  on 3055 BC 08-18
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: solar  on 3055 BC 08-18
+  Eclipse 2: lunar  on 3055 BC 09-02
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3054 BC 07-24
+  Eclipse 2: solar  on 3054 BC 08-07
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3053 BC 01-03
+  Eclipse 2: lunar  on 3053 BC 01-17
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3053 BC 07-14
+  Eclipse 2: solar  on 3053 BC 07-28
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3053 BC 12-23
+  Eclipse 2: lunar  on 3052 BC 01-06
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: solar  on 3052 BC 06-17
+  Eclipse 2: lunar  on 3052 BC 07-02
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: lunar  on 3052 BC 11-27
+  Eclipse 2: solar  on 3052 BC 12-11
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: solar  on 3052 BC 12-11
+  Eclipse 2: lunar  on 3052 BC 12-26
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: solar  on 3051 BC 06-06
+  Eclipse 2: lunar  on 3051 BC 06-21
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3051 BC 11-16
+  Eclipse 2: solar  on 3051 BC 11-30
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3050 BC 11-06
+  Eclipse 2: solar  on 3050 BC 11-20
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: solar  on 3049 BC 04-17
+  Eclipse 2: lunar  on 3049 BC 05-01
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3049 BC 10-11
+  Eclipse 2: lunar  on 3049 BC 10-26
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3048 BC 09-29
+  Eclipse 2: lunar  on 3048 BC 10-14
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3047 BC 03-11
+  Eclipse 2: solar  on 3047 BC 03-25
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3046 BC 02-28
+  Eclipse 2: solar  on 3046 BC 03-14
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: lunar  on 3046 BC 08-24
+  Eclipse 2: solar  on 3046 BC 09-08
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: solar  on 3045 BC 02-03
+  Eclipse 2: lunar  on 3045 BC 02-17
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3044 BC 01-23
+  Eclipse 2: lunar  on 3044 BC 02-06
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3044 BC 07-03
+  Eclipse 2: solar  on 3044 BC 07-17
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: lunar  on 3043 BC 06-23
+  Eclipse 2: solar  on 3043 BC 07-07
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: lunar  on 3043 BC 12-17
+  Eclipse 2: solar  on 3042 BC 01-01
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3042 BC 05-28
+  Eclipse 2: lunar  on 3042 BC 06-12
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3041 BC 05-18
+  Eclipse 2: lunar  on 3041 BC 06-01
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3041 BC 10-27
+  Eclipse 2: solar  on 3041 BC 11-11
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: lunar  on 3040 BC 04-21
+  Eclipse 2: solar  on 3040 BC 05-06
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: solar  on 3040 BC 05-06
+  Eclipse 2: lunar  on 3040 BC 05-20
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3040 BC 10-15
+  Eclipse 2: solar  on 3040 BC 10-30
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3039 BC 04-11
+  Eclipse 2: solar  on 3039 BC 04-25
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3039 BC 09-20
+  Eclipse 2: lunar  on 3039 BC 10-04
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3038 BC 09-10
+  Eclipse 2: lunar  on 3038 BC 09-24
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: lunar  on 3037 BC 08-15
+  Eclipse 2: solar  on 3037 BC 08-30
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: solar  on 3037 BC 08-30
+  Eclipse 2: lunar  on 3037 BC 09-13
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3036 BC 08-03
+  Eclipse 2: solar  on 3036 BC 08-18
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3035 BC 01-13
+  Eclipse 2: lunar  on 3035 BC 01-27
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3035 BC 07-24
+  Eclipse 2: solar  on 3035 BC 08-07
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3034 BC 01-03
+  Eclipse 2: lunar  on 3034 BC 01-17
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: solar  on 3034 BC 06-28
+  Eclipse 2: lunar  on 3034 BC 07-13
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: lunar  on 3034 BC 12-08
+  Eclipse 2: solar  on 3034 BC 12-23
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: solar  on 3034 BC 12-23
+  Eclipse 2: lunar  on 3033 BC 01-06
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3033 BC 06-18
+  Eclipse 2: lunar  on 3033 BC 07-02
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3033 BC 11-28
+  Eclipse 2: solar  on 3033 BC 12-12
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3032 BC 11-16
+  Eclipse 2: solar  on 3032 BC 11-30
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: solar  on 3031 BC 04-27
+  Eclipse 2: lunar  on 3031 BC 05-11
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: solar  on 3031 BC 10-21
+  Eclipse 2: lunar  on 3031 BC 11-05
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3030 BC 10-11
+  Eclipse 2: lunar  on 3030 BC 10-25
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3029 BC 03-22
+  Eclipse 2: solar  on 3029 BC 04-05
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3028 BC 03-11
+  Eclipse 2: solar  on 3028 BC 03-25
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3028 BC 09-03
+  Eclipse 2: solar  on 3028 BC 09-18
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: solar  on 3027 BC 02-13
+  Eclipse 2: lunar  on 3027 BC 02-28
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3026 BC 02-03
+  Eclipse 2: lunar  on 3026 BC 02-17
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3026 BC 07-15
+  Eclipse 2: solar  on 3026 BC 07-29
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: lunar  on 3025 BC 07-04
+  Eclipse 2: solar  on 3025 BC 07-18
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: lunar  on 3025 BC 12-28
+  Eclipse 2: solar  on 3024 BC 01-12
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3024 BC 06-08
+  Eclipse 2: lunar  on 3024 BC 06-22
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3023 BC 05-28
+  Eclipse 2: lunar  on 3023 BC 06-11
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3023 BC 11-07
+  Eclipse 2: solar  on 3023 BC 11-21
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3022 BC 05-02
+  Eclipse 2: solar  on 3022 BC 05-17
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: solar  on 3022 BC 05-17
+  Eclipse 2: lunar  on 3022 BC 06-01
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3022 BC 10-27
+  Eclipse 2: solar  on 3022 BC 11-11
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3021 BC 04-22
+  Eclipse 2: solar  on 3021 BC 05-06
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3021 BC 10-02
+  Eclipse 2: lunar  on 3021 BC 10-16
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3020 BC 09-20
+  Eclipse 2: lunar  on 3020 BC 10-04
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: lunar  on 3019 BC 08-25
+  Eclipse 2: solar  on 3019 BC 09-09
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: solar  on 3019 BC 09-09
+  Eclipse 2: lunar  on 3019 BC 09-24
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3018 BC 08-15
+  Eclipse 2: solar  on 3018 BC 08-29
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3017 BC 01-25
+  Eclipse 2: lunar  on 3017 BC 02-08
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3017 BC 08-04
+  Eclipse 2: solar  on 3017 BC 08-18
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3016 BC 01-14
+  Eclipse 2: lunar  on 3016 BC 01-28
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: solar  on 3016 BC 07-08
+  Eclipse 2: lunar  on 3016 BC 07-23
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: lunar  on 3016 BC 12-18
+  Eclipse 2: solar  on 3015 BC 01-02
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: solar  on 3015 BC 01-02
+  Eclipse 2: lunar  on 3015 BC 01-17
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: solar  on 3015 BC 06-28
+  Eclipse 2: lunar  on 3015 BC 07-12
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 3015 BC 12-08
+  Eclipse 2: solar  on 3015 BC 12-22
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3014 BC 11-27
+  Eclipse 2: solar  on 3014 BC 12-11
+
+Potential pair found (14.5 days apart):
+  Eclipse 1: solar  on 3013 BC 05-08
+  Eclipse 2: lunar  on 3013 BC 05-23
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: solar  on 3013 BC 11-02
+  Eclipse 2: lunar  on 3013 BC 11-16
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3012 BC 10-21
+  Eclipse 2: lunar  on 3012 BC 11-04
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3011 BC 04-02
+  Eclipse 2: solar  on 3011 BC 04-15
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: solar  on 3010 BC 03-07
+  Eclipse 2: lunar  on 3010 BC 03-22
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3010 BC 03-22
+  Eclipse 2: solar  on 3010 BC 04-05
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3010 BC 09-15
+  Eclipse 2: solar  on 3010 BC 09-30
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: solar  on 3009 BC 02-24
+  Eclipse 2: lunar  on 3009 BC 03-11
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3008 BC 02-14
+  Eclipse 2: lunar  on 3008 BC 02-28
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3008 BC 07-25
+  Eclipse 2: solar  on 3008 BC 08-08
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: lunar  on 3007 BC 07-14
+  Eclipse 2: solar  on 3007 BC 07-29
+
+Potential pair found (14.6 days apart):
+  Eclipse 1: lunar  on 3006 BC 01-08
+  Eclipse 2: solar  on 3006 BC 01-22
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3006 BC 06-19
+  Eclipse 2: lunar  on 3006 BC 07-03
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 3005 BC 06-08
+  Eclipse 2: lunar  on 3005 BC 06-22
+
+Potential pair found (14.3 days apart):
+  Eclipse 1: lunar  on 3005 BC 11-18
+  Eclipse 2: solar  on 3005 BC 12-02
+
+Potential pair found (14.9 days apart):
+  Eclipse 1: lunar  on 3004 BC 05-13
+  Eclipse 2: solar  on 3004 BC 05-28
+
+Potential pair found (14.4 days apart):
+  Eclipse 1: solar  on 3004 BC 05-28
+  Eclipse 2: lunar  on 3004 BC 06-11
+
+Potential pair found (15.0 days apart):
+  Eclipse 1: lunar  on 3004 BC 11-06
+  Eclipse 2: solar  on 3004 BC 11-21
+
+Potential pair found (14.2 days apart):
+  Eclipse 1: lunar  on 3003 BC 05-02
+  Eclipse 2: solar  on 3003 BC 05-17
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: solar  on 3003 BC 10-12
+  Eclipse 2: lunar  on 3003 BC 10-26
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: lunar  on 3002 BC 04-22
+  Eclipse 2: solar  on 3002 BC 05-06
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: solar  on 3002 BC 10-01
+  Eclipse 2: lunar  on 3002 BC 10-15
+
+Potential pair found (14.7 days apart):
+  Eclipse 1: lunar  on 3001 BC 09-06
+  Eclipse 2: solar  on 3001 BC 09-20
+
+Potential pair found (14.8 days apart):
+  Eclipse 1: solar  on 3001 BC 09-20
+  Eclipse 2: lunar  on 3001 BC 10-05
+
+Potential pair found (14.1 days apart):
+  Eclipse 1: lunar  on 3000 BC 08-26
+  Eclipse 2: solar  on 3000 BC 09-09
+
+Potential pair found (13.9 days apart):
+  Eclipse 1: solar  on 2999 BC 02-05
+  Eclipse 2: lunar  on 2999 BC 02-19
+
+Potential pair found (14.0 days apart):
+  Eclipse 1: lunar  on 2999 BC 08-16
+  Eclipse 2: solar  on 2999 BC 08-30
+
+================================================================================
+SUMMARY OF RESULTS
+================================================================================
+
+No eclipse pairs found within 15 days visible from the same location.
+This could mean:
+- The tested locations didn't have visibility for both eclipses
+- The time period searched didn't contain such pairs
+- More locations or wider time range might be needed

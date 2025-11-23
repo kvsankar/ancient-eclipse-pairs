@@ -1,0 +1,1248 @@
+Finding eclipses from 3100 BC to 3000 BC...
+================================================================================
+Found 514 total eclipses
+
+Testing 216 locations worldwide
+Searching for eclipse pairs within 15 days...
+================================================================================
+
+✓ PAIR #1:
+  Location: (-15°N, 45°E)
+  Eclipse 1: solar  on 3099 BC 01-01
+  Eclipse 2: lunar  on 3099 BC 01-15
+  Gap: 14.55 days
+
+✓ PAIR #2:
+  Location: (45°N, -105°E)
+  Eclipse 1: lunar  on 3097 BC 05-22
+  Eclipse 2: solar  on 3097 BC 06-05
+  Gap: 14.41 days
+
+✓ PAIR #3:
+  Location: (-60°N, -180°E)
+  Eclipse 1: solar  on 3096 BC 04-25
+  Eclipse 2: lunar  on 3096 BC 05-10
+  Gap: 14.20 days
+
+✓ PAIR #4:
+  Location: (45°N, -180°E)
+  Eclipse 1: lunar  on 3093 BC 03-10
+  Eclipse 2: solar  on 3093 BC 03-24
+  Gap: 14.42 days
+
+✓ PAIR #5:
+  Location: (45°N, 15°E)
+  Eclipse 1: solar  on 3093 BC 08-19
+  Eclipse 2: lunar  on 3093 BC 09-02
+  Gap: 14.08 days
+
+✓ PAIR #6:
+  Location: (45°N, -120°E)
+  Eclipse 1: solar  on 3092 BC 08-08
+  Eclipse 2: lunar  on 3092 BC 08-22
+  Gap: 14.03 days
+
+✓ PAIR #7:
+  Location: (-30°N, -180°E)
+  Eclipse 1: lunar  on 3091 BC 01-17
+  Eclipse 2: solar  on 3091 BC 01-31
+  Gap: 14.29 days
+
+✓ PAIR #8:
+  Location: (0°N, 105°E)
+  Eclipse 1: solar  on 3091 BC 07-28
+  Eclipse 2: lunar  on 3091 BC 08-11
+  Gap: 14.54 days
+
+✓ PAIR #9:
+  Location: (-60°N, 90°E)
+  Eclipse 1: lunar  on 3090 BC 07-02
+  Eclipse 2: solar  on 3090 BC 07-17
+  Gap: 14.18 days
+
+✓ PAIR #10:
+  Location: (-60°N, -90°E)
+  Eclipse 1: solar  on 3089 BC 12-02
+  Eclipse 2: lunar  on 3089 BC 12-16
+  Gap: 14.16 days
+
+✓ PAIR #11:
+  Location: (-45°N, 135°E)
+  Eclipse 1: lunar  on 3088 BC 11-05
+  Eclipse 2: solar  on 3088 BC 11-20
+  Gap: 14.62 days
+
+✓ PAIR #12:
+  Location: (-15°N, 120°E)
+  Eclipse 1: solar  on 3088 BC 11-20
+  Eclipse 2: lunar  on 3088 BC 12-04
+  Gap: 14.81 days
+
+✓ PAIR #13:
+  Location: (60°N, 90°E)
+  Eclipse 1: lunar  on 3087 BC 10-26
+  Eclipse 2: solar  on 3087 BC 11-09
+  Gap: 14.07 days
+
+✓ PAIR #14:
+  Location: (30°N, -60°E)
+  Eclipse 1: solar  on 3085 BC 03-26
+  Eclipse 2: lunar  on 3085 BC 04-09
+  Gap: 14.35 days
+
+✓ PAIR #15:
+  Location: (-60°N, -105°E)
+  Eclipse 1: solar  on 3085 BC 09-19
+  Eclipse 2: lunar  on 3085 BC 10-04
+  Gap: 14.83 days
+
+✓ PAIR #16:
+  Location: (-15°N, -60°E)
+  Eclipse 1: lunar  on 3084 BC 02-29
+  Eclipse 2: solar  on 3084 BC 03-14
+  Gap: 14.25 days
+
+✓ PAIR #17:
+  Location: (0°N, 150°E)
+  Eclipse 1: solar  on 3084 BC 09-08
+  Eclipse 2: lunar  on 3084 BC 09-22
+  Gap: 14.19 days
+
+✓ PAIR #18:
+  Location: (-60°N, -30°E)
+  Eclipse 1: lunar  on 3083 BC 02-17
+  Eclipse 2: solar  on 3083 BC 03-03
+  Gap: 13.91 days
+
+✓ PAIR #19:
+  Location: (-60°N, -180°E)
+  Eclipse 1: solar  on 3082 BC 07-18
+  Eclipse 2: lunar  on 3082 BC 08-02
+  Gap: 14.73 days
+
+✓ PAIR #20:
+  Location: (-15°N, -75°E)
+  Eclipse 1: solar  on 3081 BC 01-12
+  Eclipse 2: lunar  on 3081 BC 01-27
+  Gap: 14.50 days
+
+✓ PAIR #21:
+  Location: (45°N, -180°E)
+  Eclipse 1: lunar  on 3079 BC 06-01
+  Eclipse 2: solar  on 3079 BC 06-15
+  Gap: 14.46 days
+
+✓ PAIR #22:
+  Location: (-60°N, 75°E)
+  Eclipse 1: solar  on 3078 BC 05-07
+  Eclipse 2: lunar  on 3078 BC 05-21
+  Gap: 14.17 days
+
+✓ PAIR #23:
+  Location: (45°N, 75°E)
+  Eclipse 1: lunar  on 3075 BC 03-20
+  Eclipse 2: solar  on 3075 BC 04-04
+  Gap: 14.38 days
+
+✓ PAIR #24:
+  Location: (45°N, -120°E)
+  Eclipse 1: solar  on 3075 BC 08-30
+  Eclipse 2: lunar  on 3075 BC 09-13
+  Gap: 14.07 days
+
+✓ PAIR #25:
+  Location: (45°N, 120°E)
+  Eclipse 1: solar  on 3074 BC 08-19
+  Eclipse 2: lunar  on 3074 BC 09-02
+  Gap: 14.06 days
+
+✓ PAIR #26:
+  Location: (-45°N, 60°E)
+  Eclipse 1: lunar  on 3073 BC 01-28
+  Eclipse 2: solar  on 3073 BC 02-12
+  Gap: 14.32 days
+
+✓ PAIR #27:
+  Location: (15°N, 45°E)
+  Eclipse 1: lunar  on 3073 BC 07-24
+  Eclipse 2: solar  on 3073 BC 08-08
+  Gap: 14.81 days
+
+✓ PAIR #28:
+  Location: (0°N, -15°E)
+  Eclipse 1: solar  on 3073 BC 08-08
+  Eclipse 2: lunar  on 3073 BC 08-23
+  Gap: 14.59 days
+
+✓ PAIR #29:
+  Location: (-60°N, -30°E)
+  Eclipse 1: lunar  on 3072 BC 07-13
+  Eclipse 2: solar  on 3072 BC 07-27
+  Gap: 14.16 days
+
+✓ PAIR #30:
+  Location: (-60°N, 120°E)
+  Eclipse 1: solar  on 3071 BC 12-12
+  Eclipse 2: lunar  on 3071 BC 12-26
+  Gap: 14.18 days
+
+✓ PAIR #31:
+  Location: (-45°N, 15°E)
+  Eclipse 1: lunar  on 3070 BC 11-16
+  Eclipse 2: solar  on 3070 BC 12-01
+  Gap: 14.57 days
+
+✓ PAIR #32:
+  Location: (-15°N, -45°E)
+  Eclipse 1: solar  on 3069 BC 05-27
+  Eclipse 2: lunar  on 3069 BC 06-10
+  Gap: 14.31 days
+
+✓ PAIR #33:
+  Location: (60°N, -30°E)
+  Eclipse 1: lunar  on 3069 BC 11-06
+  Eclipse 2: solar  on 3069 BC 11-20
+  Gap: 14.05 days
+
+✓ PAIR #34:
+  Location: (45°N, -165°E)
+  Eclipse 1: solar  on 3067 BC 04-05
+  Eclipse 2: lunar  on 3067 BC 04-20
+  Gap: 14.39 days
+
+✓ PAIR #35:
+  Location: (-60°N, 120°E)
+  Eclipse 1: solar  on 3067 BC 09-29
+  Eclipse 2: lunar  on 3067 BC 10-14
+  Gap: 14.80 days
+
+✓ PAIR #36:
+  Location: (0°N, -165°E)
+  Eclipse 1: lunar  on 3066 BC 03-11
+  Eclipse 2: solar  on 3066 BC 03-25
+  Gap: 14.21 days
+
+✓ PAIR #37:
+  Location: (15°N, 15°E)
+  Eclipse 1: solar  on 3066 BC 09-19
+  Eclipse 2: lunar  on 3066 BC 10-03
+  Gap: 14.17 days
+
+✓ PAIR #38:
+  Location: (-60°N, -150°E)
+  Eclipse 1: lunar  on 3065 BC 03-01
+  Eclipse 2: solar  on 3065 BC 03-15
+  Gap: 13.90 days
+
+✓ PAIR #39:
+  Location: (0°N, -180°E)
+  Eclipse 1: solar  on 3063 BC 01-23
+  Eclipse 2: lunar  on 3063 BC 02-06
+  Gap: 14.45 days
+
+✓ PAIR #40:
+  Location: (45°N, 45°E)
+  Eclipse 1: lunar  on 3061 BC 06-12
+  Eclipse 2: solar  on 3061 BC 06-27
+  Gap: 14.51 days
+
+✓ PAIR #41:
+  Location: (-60°N, -45°E)
+  Eclipse 1: solar  on 3060 BC 05-17
+  Eclipse 2: lunar  on 3060 BC 05-31
+  Gap: 14.14 days
+
+✓ PAIR #42:
+  Location: (-30°N, -105°E)
+  Eclipse 1: lunar  on 3059 BC 10-16
+  Eclipse 2: solar  on 3059 BC 10-30
+  Gap: 14.21 days
+
+✓ PAIR #43:
+  Location: (0°N, 75°E)
+  Eclipse 1: solar  on 3058 BC 04-26
+  Eclipse 2: lunar  on 3058 BC 05-10
+  Gap: 14.26 days
+
+✓ PAIR #44:
+  Location: (45°N, -30°E)
+  Eclipse 1: lunar  on 3057 BC 03-31
+  Eclipse 2: solar  on 3057 BC 04-15
+  Gap: 14.33 days
+
+✓ PAIR #45:
+  Location: (45°N, 90°E)
+  Eclipse 1: solar  on 3057 BC 09-10
+  Eclipse 2: lunar  on 3057 BC 09-24
+  Gap: 14.06 days
+
+✓ PAIR #46:
+  Location: (30°N, -30°E)
+  Eclipse 1: solar  on 3056 BC 08-29
+  Eclipse 2: lunar  on 3056 BC 09-12
+  Gap: 14.08 days
+
+✓ PAIR #47:
+  Location: (-45°N, -60°E)
+  Eclipse 1: lunar  on 3055 BC 02-08
+  Eclipse 2: solar  on 3055 BC 02-22
+  Gap: 14.36 days
+
+✓ PAIR #48:
+  Location: (0°N, -90°E)
+  Eclipse 1: lunar  on 3055 BC 08-04
+  Eclipse 2: solar  on 3055 BC 08-18
+  Gap: 14.78 days
+
+✓ PAIR #49:
+  Location: (-15°N, -105°E)
+  Eclipse 1: solar  on 3055 BC 08-18
+  Eclipse 2: lunar  on 3055 BC 09-02
+  Gap: 14.63 days
+
+✓ PAIR #50:
+  Location: (-60°N, -150°E)
+  Eclipse 1: lunar  on 3054 BC 07-24
+  Eclipse 2: solar  on 3054 BC 08-07
+  Gap: 14.14 days
+
+✓ PAIR #51:
+  Location: (-60°N, -15°E)
+  Eclipse 1: solar  on 3053 BC 12-23
+  Eclipse 2: lunar  on 3052 BC 01-06
+  Gap: 14.20 days
+
+✓ PAIR #52:
+  Location: (60°N, -45°E)
+  Eclipse 1: solar  on 3052 BC 06-17
+  Eclipse 2: lunar  on 3052 BC 07-02
+  Gap: 14.97 days
+
+✓ PAIR #53:
+  Location: (-45°N, -105°E)
+  Eclipse 1: lunar  on 3052 BC 11-27
+  Eclipse 2: solar  on 3052 BC 12-11
+  Gap: 14.53 days
+
+✓ PAIR #54:
+  Location: (0°N, -165°E)
+  Eclipse 1: solar  on 3051 BC 06-06
+  Eclipse 2: lunar  on 3051 BC 06-21
+  Gap: 14.27 days
+
+✓ PAIR #55:
+  Location: (60°N, -150°E)
+  Eclipse 1: lunar  on 3051 BC 11-16
+  Eclipse 2: solar  on 3051 BC 11-30
+  Gap: 14.03 days
+
+✓ PAIR #56:
+  Location: (45°N, 90°E)
+  Eclipse 1: solar  on 3049 BC 04-17
+  Eclipse 2: lunar  on 3049 BC 05-01
+  Gap: 14.44 days
+
+✓ PAIR #57:
+  Location: (-60°N, -30°E)
+  Eclipse 1: solar  on 3049 BC 10-11
+  Eclipse 2: lunar  on 3049 BC 10-26
+  Gap: 14.76 days
+
+✓ PAIR #58:
+  Location: (60°N, 150°E)
+  Eclipse 1: lunar  on 3046 BC 08-24
+  Eclipse 2: solar  on 3046 BC 09-08
+  Gap: 14.96 days
+
+✓ PAIR #59:
+  Location: (0°N, 45°E)
+  Eclipse 1: solar  on 3045 BC 02-03
+  Eclipse 2: lunar  on 3045 BC 02-17
+  Gap: 14.40 days
+
+✓ PAIR #60:
+  Location: (30°N, -30°E)
+  Eclipse 1: lunar  on 3043 BC 06-23
+  Eclipse 2: solar  on 3043 BC 07-07
+  Gap: 14.56 days
+
+✓ PAIR #61:
+  Location: (-60°N, -150°E)
+  Eclipse 1: solar  on 3042 BC 05-28
+  Eclipse 2: lunar  on 3042 BC 06-12
+  Gap: 14.12 days
+
+✓ PAIR #62:
+  Location: (-30°N, 120°E)
+  Eclipse 1: lunar  on 3041 BC 10-27
+  Eclipse 2: solar  on 3041 BC 11-11
+  Gap: 14.23 days
+
+✓ PAIR #63:
+  Location: (0°N, -45°E)
+  Eclipse 1: solar  on 3040 BC 05-06
+  Eclipse 2: lunar  on 3040 BC 05-20
+  Gap: 14.30 days
+
+✓ PAIR #64:
+  Location: (45°N, -135°E)
+  Eclipse 1: lunar  on 3039 BC 04-11
+  Eclipse 2: solar  on 3039 BC 04-25
+  Gap: 14.29 days
+
+✓ PAIR #65:
+  Location: (45°N, -45°E)
+  Eclipse 1: solar  on 3039 BC 09-20
+  Eclipse 2: lunar  on 3039 BC 10-04
+  Gap: 14.05 days
+
+✓ PAIR #66:
+  Location: (30°N, -165°E)
+  Eclipse 1: solar  on 3038 BC 09-10
+  Eclipse 2: lunar  on 3038 BC 09-24
+  Gap: 14.10 days
+
+✓ PAIR #67:
+  Location: (-15°N, 135°E)
+  Eclipse 1: lunar  on 3037 BC 08-15
+  Eclipse 2: solar  on 3037 BC 08-30
+  Gap: 14.75 days
+
+✓ PAIR #68:
+  Location: (-15°N, 120°E)
+  Eclipse 1: solar  on 3037 BC 08-30
+  Eclipse 2: lunar  on 3037 BC 09-13
+  Gap: 14.68 days
+
+✓ PAIR #69:
+  Location: (-60°N, 75°E)
+  Eclipse 1: lunar  on 3036 BC 08-03
+  Eclipse 2: solar  on 3036 BC 08-18
+  Gap: 14.13 days
+
+✓ PAIR #70:
+  Location: (-60°N, -15°E)
+  Eclipse 1: lunar  on 3035 BC 07-24
+  Eclipse 2: solar  on 3035 BC 08-07
+  Gap: 13.99 days
+
+✓ PAIR #71:
+  Location: (-60°N, -135°E)
+  Eclipse 1: solar  on 3034 BC 01-03
+  Eclipse 2: lunar  on 3034 BC 01-17
+  Gap: 14.22 days
+
+✓ PAIR #72:
+  Location: (60°N, -165°E)
+  Eclipse 1: solar  on 3034 BC 06-28
+  Eclipse 2: lunar  on 3034 BC 07-13
+  Gap: 14.93 days
+
+✓ PAIR #73:
+  Location: (-45°N, -180°E)
+  Eclipse 1: lunar  on 3034 BC 12-08
+  Eclipse 2: solar  on 3034 BC 12-23
+  Gap: 14.48 days
+
+✓ PAIR #74:
+  Location: (0°N, 90°E)
+  Eclipse 1: solar  on 3033 BC 06-18
+  Eclipse 2: lunar  on 3033 BC 07-02
+  Gap: 14.25 days
+
+✓ PAIR #75:
+  Location: (60°N, -30°E)
+  Eclipse 1: lunar  on 3032 BC 11-16
+  Eclipse 2: solar  on 3032 BC 11-30
+  Gap: 14.11 days
+
+✓ PAIR #76:
+  Location: (60°N, 0°E)
+  Eclipse 1: solar  on 3031 BC 04-27
+  Eclipse 2: lunar  on 3031 BC 05-11
+  Gap: 14.48 days
+
+✓ PAIR #77:
+  Location: (-60°N, -180°E)
+  Eclipse 1: solar  on 3031 BC 10-21
+  Eclipse 2: lunar  on 3031 BC 11-05
+  Gap: 14.72 days
+
+✓ PAIR #78:
+  Location: (-60°N, 75°E)
+  Eclipse 1: lunar  on 3028 BC 03-11
+  Eclipse 2: solar  on 3028 BC 03-25
+  Gap: 14.25 days
+
+✓ PAIR #79:
+  Location: (60°N, 15°E)
+  Eclipse 1: lunar  on 3028 BC 09-03
+  Eclipse 2: solar  on 3028 BC 09-18
+  Gap: 14.93 days
+
+✓ PAIR #80:
+  Location: (0°N, -75°E)
+  Eclipse 1: solar  on 3027 BC 02-13
+  Eclipse 2: lunar  on 3027 BC 02-28
+  Gap: 14.35 days
+
+✓ PAIR #81:
+  Location: (30°N, -165°E)
+  Eclipse 1: lunar  on 3025 BC 07-04
+  Eclipse 2: solar  on 3025 BC 07-18
+  Gap: 14.62 days
+
+✓ PAIR #82:
+  Location: (-60°N, 105°E)
+  Eclipse 1: solar  on 3024 BC 06-08
+  Eclipse 2: lunar  on 3024 BC 06-22
+  Gap: 14.10 days
+
+✓ PAIR #83:
+  Location: (-60°N, -90°E)
+  Eclipse 1: solar  on 3023 BC 05-28
+  Eclipse 2: lunar  on 3023 BC 06-11
+  Gap: 13.93 days
+
+✓ PAIR #84:
+  Location: (-30°N, -15°E)
+  Eclipse 1: lunar  on 3023 BC 11-07
+  Eclipse 2: solar  on 3023 BC 11-21
+  Gap: 14.25 days
+
+✓ PAIR #85:
+  Location: (0°N, -150°E)
+  Eclipse 1: solar  on 3022 BC 05-17
+  Eclipse 2: lunar  on 3022 BC 06-01
+  Gap: 14.35 days
+
+✓ PAIR #86:
+  Location: (45°N, -180°E)
+  Eclipse 1: lunar  on 3021 BC 04-22
+  Eclipse 2: solar  on 3021 BC 05-06
+  Gap: 14.25 days
+
+✓ PAIR #87:
+  Location: (45°N, -180°E)
+  Eclipse 1: solar  on 3021 BC 10-02
+  Eclipse 2: lunar  on 3021 BC 10-16
+  Gap: 14.04 days
+
+✓ PAIR #88:
+  Location: (15°N, 60°E)
+  Eclipse 1: solar  on 3020 BC 09-20
+  Eclipse 2: lunar  on 3020 BC 10-04
+  Gap: 14.13 days
+
+✓ PAIR #89:
+  Location: (-15°N, 15°E)
+  Eclipse 1: lunar  on 3019 BC 08-25
+  Eclipse 2: solar  on 3019 BC 09-09
+  Gap: 14.72 days
+
+✓ PAIR #90:
+  Location: (-15°N, 0°E)
+  Eclipse 1: solar  on 3019 BC 09-09
+  Eclipse 2: lunar  on 3019 BC 09-24
+  Gap: 14.72 days
+
+✓ PAIR #91:
+  Location: (-60°N, -60°E)
+  Eclipse 1: lunar  on 3018 BC 08-15
+  Eclipse 2: solar  on 3018 BC 08-29
+  Gap: 14.11 days
+
+✓ PAIR #92:
+  Location: (-60°N, -150°E)
+  Eclipse 1: lunar  on 3017 BC 08-04
+  Eclipse 2: solar  on 3017 BC 08-18
+  Gap: 14.01 days
+
+✓ PAIR #93:
+  Location: (-60°N, -180°E)
+  Eclipse 1: solar  on 3016 BC 01-14
+  Eclipse 2: lunar  on 3016 BC 01-28
+  Gap: 14.25 days
+
+✓ PAIR #94:
+  Location: (-45°N, 30°E)
+  Eclipse 1: lunar  on 3016 BC 12-18
+  Eclipse 2: solar  on 3015 BC 01-02
+  Gap: 14.43 days
+
+✓ PAIR #95:
+  Location: (0°N, -15°E)
+  Eclipse 1: solar  on 3015 BC 06-28
+  Eclipse 2: lunar  on 3015 BC 07-12
+  Gap: 14.22 days
+
+✓ PAIR #96:
+  Location: (60°N, -165°E)
+  Eclipse 1: lunar  on 3014 BC 11-27
+  Eclipse 2: solar  on 3014 BC 12-11
+  Gap: 14.13 days
+
+✓ PAIR #97:
+  Location: (-60°N, 45°E)
+  Eclipse 1: solar  on 3013 BC 11-02
+  Eclipse 2: lunar  on 3013 BC 11-16
+  Gap: 14.68 days
+
+✓ PAIR #98:
+  Location: (-60°N, -45°E)
+  Eclipse 1: lunar  on 3010 BC 03-22
+  Eclipse 2: solar  on 3010 BC 04-05
+  Gap: 14.29 days
+
+✓ PAIR #99:
+  Location: (60°N, -120°E)
+  Eclipse 1: lunar  on 3010 BC 09-15
+  Eclipse 2: solar  on 3010 BC 09-30
+  Gap: 14.89 days
+
+✓ PAIR #100:
+  Location: (15°N, -180°E)
+  Eclipse 1: solar  on 3009 BC 02-24
+  Eclipse 2: lunar  on 3009 BC 03-11
+  Gap: 14.31 days
+
+✓ PAIR #101:
+  Location: (30°N, 75°E)
+  Eclipse 1: lunar  on 3007 BC 07-14
+  Eclipse 2: solar  on 3007 BC 07-29
+  Gap: 14.67 days
+
+✓ PAIR #102:
+  Location: (-60°N, 0°E)
+  Eclipse 1: solar  on 3006 BC 06-19
+  Eclipse 2: lunar  on 3006 BC 07-03
+  Gap: 14.08 days
+
+✓ PAIR #103:
+  Location: (-60°N, 150°E)
+  Eclipse 1: solar  on 3005 BC 06-08
+  Eclipse 2: lunar  on 3005 BC 06-22
+  Gap: 13.95 days
+
+✓ PAIR #104:
+  Location: (-45°N, -135°E)
+  Eclipse 1: lunar  on 3005 BC 11-18
+  Eclipse 2: solar  on 3005 BC 12-02
+  Gap: 14.28 days
+
+✓ PAIR #105:
+  Location: (0°N, 120°E)
+  Eclipse 1: solar  on 3004 BC 05-28
+  Eclipse 2: lunar  on 3004 BC 06-11
+  Gap: 14.40 days
+
+✓ PAIR #106:
+  Location: (45°N, 30°E)
+  Eclipse 1: lunar  on 3003 BC 05-02
+  Eclipse 2: solar  on 3003 BC 05-17
+  Gap: 14.22 days
+
+✓ PAIR #107:
+  Location: (45°N, 60°E)
+  Eclipse 1: solar  on 3003 BC 10-12
+  Eclipse 2: lunar  on 3003 BC 10-26
+  Gap: 14.03 days
+
+✓ PAIR #108:
+  Location: (15°N, -75°E)
+  Eclipse 1: solar  on 3002 BC 10-01
+  Eclipse 2: lunar  on 3002 BC 10-15
+  Gap: 14.15 days
+
+✓ PAIR #109:
+  Location: (-15°N, -120°E)
+  Eclipse 1: lunar  on 3001 BC 09-06
+  Eclipse 2: solar  on 3001 BC 09-20
+  Gap: 14.69 days
+
+✓ PAIR #110:
+  Location: (-15°N, -120°E)
+  Eclipse 1: solar  on 3001 BC 09-20
+  Eclipse 2: lunar  on 3001 BC 10-05
+  Gap: 14.76 days
+
+✓ PAIR #111:
+  Location: (-60°N, -180°E)
+  Eclipse 1: lunar  on 3000 BC 08-26
+  Eclipse 2: solar  on 3000 BC 09-09
+  Gap: 14.10 days
+
+✓ PAIR #112:
+  Location: (-60°N, 75°E)
+  Eclipse 1: lunar  on 2999 BC 08-16
+  Eclipse 2: solar  on 2999 BC 08-30
+  Gap: 14.03 days
+
+
+================================================================================
+FINAL RESULTS
+================================================================================
+
+✓ SUCCESS! Found 112 eclipse pair(s) visible from the same location!
+
+All results:
+
+1. Location: (-15°N, 45°E)
+   Eclipse 1: solar on 3099 BC 01-01 8.1h
+   Eclipse 2: lunar on 3099 BC 01-15 21.4h
+   Time gap: 14.55 days
+
+2. Location: (45°N, -105°E)
+   Eclipse 1: lunar on 3097 BC 05-22 3.9h
+   Eclipse 2: solar on 3097 BC 06-05 13.8h
+   Time gap: 14.41 days
+
+3. Location: (-60°N, -180°E)
+   Eclipse 1: solar on 3096 BC 04-25 23.6h
+   Eclipse 2: lunar on 3096 BC 05-10 4.5h
+   Time gap: 14.20 days
+
+4. Location: (45°N, -180°E)
+   Eclipse 1: lunar on 3093 BC 03-10 8.8h
+   Eclipse 2: solar on 3093 BC 03-24 18.9h
+   Time gap: 14.42 days
+
+5. Location: (45°N, 15°E)
+   Eclipse 1: solar on 3093 BC 08-19 17.7h
+   Eclipse 2: lunar on 3093 BC 09-02 19.7h
+   Time gap: 14.08 days
+
+6. Location: (45°N, -120°E)
+   Eclipse 1: solar on 3092 BC 08-08 2.2h
+   Eclipse 2: lunar on 3092 BC 08-22 3.0h
+   Time gap: 14.03 days
+
+7. Location: (-30°N, -180°E)
+   Eclipse 1: lunar on 3091 BC 01-17 16.7h
+   Eclipse 2: solar on 3091 BC 01-31 23.8h
+   Time gap: 14.29 days
+
+8. Location: (0°N, 105°E)
+   Eclipse 1: solar on 3091 BC 07-28 3.7h
+   Eclipse 2: lunar on 3091 BC 08-11 16.7h
+   Time gap: 14.54 days
+
+9. Location: (-60°N, 90°E)
+   Eclipse 1: lunar on 3090 BC 07-02 23.3h
+   Eclipse 2: solar on 3090 BC 07-17 3.6h
+   Time gap: 14.18 days
+
+10. Location: (-60°N, -90°E)
+   Eclipse 1: solar on 3089 BC 12-02 2.2h
+   Eclipse 2: lunar on 3089 BC 12-16 6.1h
+   Time gap: 14.16 days
+
+11. Location: (-45°N, 135°E)
+   Eclipse 1: lunar on 3088 BC 11-05 11.2h
+   Eclipse 2: solar on 3088 BC 11-20 2.0h
+   Time gap: 14.62 days
+
+12. Location: (-15°N, 120°E)
+   Eclipse 1: solar on 3088 BC 11-20 2.0h
+   Eclipse 2: lunar on 3088 BC 12-04 21.3h
+   Time gap: 14.81 days
+
+13. Location: (60°N, 90°E)
+   Eclipse 1: lunar on 3087 BC 10-26 1.0h
+   Eclipse 2: solar on 3087 BC 11-09 2.7h
+   Time gap: 14.07 days
+
+14. Location: (30°N, -60°E)
+   Eclipse 1: solar on 3085 BC 03-26 14.3h
+   Eclipse 2: lunar on 3085 BC 04-09 22.6h
+   Time gap: 14.35 days
+
+15. Location: (-60°N, -105°E)
+   Eclipse 1: solar on 3085 BC 09-19 13.2h
+   Eclipse 2: lunar on 3085 BC 10-04 9.2h
+   Time gap: 14.83 days
+
+16. Location: (-15°N, -60°E)
+   Eclipse 1: lunar on 3084 BC 02-29 8.9h
+   Eclipse 2: solar on 3084 BC 03-14 14.9h
+   Time gap: 14.25 days
+
+17. Location: (0°N, 150°E)
+   Eclipse 1: solar on 3084 BC 09-08 4.1h
+   Eclipse 2: lunar on 3084 BC 09-22 8.6h
+   Time gap: 14.19 days
+
+18. Location: (-60°N, -30°E)
+   Eclipse 1: lunar on 3083 BC 02-17 22.0h
+   Eclipse 2: solar on 3083 BC 03-03 19.7h
+   Time gap: 13.91 days
+
+19. Location: (-60°N, -180°E)
+   Eclipse 1: solar on 3082 BC 07-18 22.6h
+   Eclipse 2: lunar on 3082 BC 08-02 16.1h
+   Time gap: 14.73 days
+
+20. Location: (-15°N, -75°E)
+   Eclipse 1: solar on 3081 BC 01-12 16.3h
+   Eclipse 2: lunar on 3081 BC 01-27 4.4h
+   Time gap: 14.50 days
+
+21. Location: (45°N, -180°E)
+   Eclipse 1: lunar on 3079 BC 06-01 10.6h
+   Eclipse 2: solar on 3079 BC 06-15 21.7h
+   Time gap: 14.46 days
+
+22. Location: (-60°N, 75°E)
+   Eclipse 1: solar on 3078 BC 05-07 7.1h
+   Eclipse 2: lunar on 3078 BC 05-21 11.2h
+   Time gap: 14.17 days
+
+23. Location: (45°N, 75°E)
+   Eclipse 1: lunar on 3075 BC 03-20 16.3h
+   Eclipse 2: solar on 3075 BC 04-04 1.4h
+   Time gap: 14.38 days
+
+24. Location: (45°N, -120°E)
+   Eclipse 1: solar on 3075 BC 08-30 2.3h
+   Eclipse 2: lunar on 3075 BC 09-13 4.1h
+   Time gap: 14.07 days
+
+25. Location: (45°N, 120°E)
+   Eclipse 1: solar on 3074 BC 08-19 10.2h
+   Eclipse 2: lunar on 3074 BC 09-02 11.6h
+   Time gap: 14.06 days
+
+26. Location: (-45°N, 60°E)
+   Eclipse 1: lunar on 3073 BC 01-28 23.7h
+   Eclipse 2: solar on 3073 BC 02-12 7.5h
+   Time gap: 14.32 days
+
+27. Location: (15°N, 45°E)
+   Eclipse 1: lunar on 3073 BC 07-24 15.8h
+   Eclipse 2: solar on 3073 BC 08-08 11.3h
+   Time gap: 14.81 days
+
+28. Location: (0°N, -15°E)
+   Eclipse 1: solar on 3073 BC 08-08 11.3h
+   Eclipse 2: lunar on 3073 BC 08-23 1.4h
+   Time gap: 14.59 days
+
+29. Location: (-60°N, -30°E)
+   Eclipse 1: lunar on 3072 BC 07-13 7.3h
+   Eclipse 2: solar on 3072 BC 07-27 11.2h
+   Time gap: 14.16 days
+
+30. Location: (-60°N, 120°E)
+   Eclipse 1: solar on 3071 BC 12-12 10.1h
+   Eclipse 2: lunar on 3071 BC 12-26 14.4h
+   Time gap: 14.18 days
+
+31. Location: (-45°N, 15°E)
+   Eclipse 1: lunar on 3070 BC 11-16 20.1h
+   Eclipse 2: solar on 3070 BC 12-01 9.8h
+   Time gap: 14.57 days
+
+32. Location: (-15°N, -45°E)
+   Eclipse 1: solar on 3069 BC 05-27 14.7h
+   Eclipse 2: lunar on 3069 BC 06-10 22.0h
+   Time gap: 14.31 days
+
+33. Location: (60°N, -30°E)
+   Eclipse 1: lunar on 3069 BC 11-06 9.7h
+   Eclipse 2: solar on 3069 BC 11-20 11.0h
+   Time gap: 14.05 days
+
+34. Location: (45°N, -165°E)
+   Eclipse 1: solar on 3067 BC 04-05 20.7h
+   Eclipse 2: lunar on 3067 BC 04-20 6.1h
+   Time gap: 14.39 days
+
+35. Location: (-60°N, 120°E)
+   Eclipse 1: solar on 3067 BC 09-29 22.3h
+   Eclipse 2: lunar on 3067 BC 10-14 17.4h
+   Time gap: 14.80 days
+
+36. Location: (0°N, -165°E)
+   Eclipse 1: lunar on 3066 BC 03-11 16.4h
+   Eclipse 2: solar on 3066 BC 03-25 21.4h
+   Time gap: 14.21 days
+
+37. Location: (15°N, 15°E)
+   Eclipse 1: solar on 3066 BC 09-19 12.9h
+   Eclipse 2: lunar on 3066 BC 10-03 17.0h
+   Time gap: 14.17 days
+
+38. Location: (-60°N, -150°E)
+   Eclipse 1: lunar on 3065 BC 03-01 5.2h
+   Eclipse 2: solar on 3065 BC 03-15 2.8h
+   Time gap: 13.90 days
+
+39. Location: (0°N, -180°E)
+   Eclipse 1: solar on 3063 BC 01-23 0.4h
+   Eclipse 2: lunar on 3063 BC 02-06 11.3h
+   Time gap: 14.45 days
+
+40. Location: (45°N, 45°E)
+   Eclipse 1: lunar on 3061 BC 06-12 17.3h
+   Eclipse 2: solar on 3061 BC 06-27 5.7h
+   Time gap: 14.51 days
+
+41. Location: (-60°N, -45°E)
+   Eclipse 1: solar on 3060 BC 05-17 14.5h
+   Eclipse 2: lunar on 3060 BC 05-31 18.0h
+   Time gap: 14.14 days
+
+42. Location: (-30°N, -105°E)
+   Eclipse 1: lunar on 3059 BC 10-16 12.3h
+   Eclipse 2: solar on 3059 BC 10-30 17.3h
+   Time gap: 14.21 days
+
+43. Location: (0°N, 75°E)
+   Eclipse 1: solar on 3058 BC 04-26 7.1h
+   Eclipse 2: lunar on 3058 BC 05-10 13.4h
+   Time gap: 14.26 days
+
+44. Location: (45°N, -30°E)
+   Eclipse 1: lunar on 3057 BC 03-31 23.8h
+   Eclipse 2: solar on 3057 BC 04-15 7.8h
+   Time gap: 14.33 days
+
+45. Location: (45°N, 90°E)
+   Eclipse 1: solar on 3057 BC 09-10 11.0h
+   Eclipse 2: lunar on 3057 BC 09-24 12.4h
+   Time gap: 14.06 days
+
+46. Location: (30°N, -30°E)
+   Eclipse 1: solar on 3056 BC 08-29 18.4h
+   Eclipse 2: lunar on 3056 BC 09-12 20.3h
+   Time gap: 14.08 days
+
+47. Location: (-45°N, -60°E)
+   Eclipse 1: lunar on 3055 BC 02-08 6.7h
+   Eclipse 2: solar on 3055 BC 02-22 15.2h
+   Time gap: 14.36 days
+
+48. Location: (0°N, -90°E)
+   Eclipse 1: lunar on 3055 BC 08-04 0.3h
+   Eclipse 2: solar on 3055 BC 08-18 19.1h
+   Time gap: 14.78 days
+
+49. Location: (-15°N, -105°E)
+   Eclipse 1: solar on 3055 BC 08-18 19.1h
+   Eclipse 2: lunar on 3055 BC 09-02 10.3h
+   Time gap: 14.63 days
+
+50. Location: (-60°N, -150°E)
+   Eclipse 1: lunar on 3054 BC 07-24 15.5h
+   Eclipse 2: solar on 3054 BC 08-07 19.0h
+   Time gap: 14.14 days
+
+51. Location: (-60°N, -15°E)
+   Eclipse 1: solar on 3053 BC 12-23 17.8h
+   Eclipse 2: lunar on 3052 BC 01-06 22.6h
+   Time gap: 14.20 days
+
+52. Location: (60°N, -45°E)
+   Eclipse 1: solar on 3052 BC 06-17 5.7h
+   Eclipse 2: lunar on 3052 BC 07-02 4.9h
+   Time gap: 14.97 days
+
+53. Location: (-45°N, -105°E)
+   Eclipse 1: lunar on 3052 BC 11-27 4.9h
+   Eclipse 2: solar on 3052 BC 12-11 17.5h
+   Time gap: 14.53 days
+
+54. Location: (0°N, -165°E)
+   Eclipse 1: solar on 3051 BC 06-06 22.4h
+   Eclipse 2: lunar on 3051 BC 06-21 5.0h
+   Time gap: 14.27 days
+
+55. Location: (60°N, -150°E)
+   Eclipse 1: lunar on 3051 BC 11-16 18.4h
+   Eclipse 2: solar on 3051 BC 11-30 19.1h
+   Time gap: 14.03 days
+
+56. Location: (45°N, 90°E)
+   Eclipse 1: solar on 3049 BC 04-17 3.1h
+   Eclipse 2: lunar on 3049 BC 05-01 13.6h
+   Time gap: 14.44 days
+
+57. Location: (-60°N, -30°E)
+   Eclipse 1: solar on 3049 BC 10-11 7.3h
+   Eclipse 2: lunar on 3049 BC 10-26 1.5h
+   Time gap: 14.76 days
+
+58. Location: (60°N, 150°E)
+   Eclipse 1: lunar on 3046 BC 08-24 9.5h
+   Eclipse 2: solar on 3046 BC 09-08 8.5h
+   Time gap: 14.96 days
+
+59. Location: (0°N, 45°E)
+   Eclipse 1: solar on 3045 BC 02-03 8.3h
+   Eclipse 2: lunar on 3045 BC 02-17 18.0h
+   Time gap: 14.40 days
+
+60. Location: (30°N, -30°E)
+   Eclipse 1: lunar on 3043 BC 06-23 0.3h
+   Eclipse 2: solar on 3043 BC 07-07 13.8h
+   Time gap: 14.56 days
+
+61. Location: (-60°N, -150°E)
+   Eclipse 1: solar on 3042 BC 05-28 22.1h
+   Eclipse 2: lunar on 3042 BC 06-12 0.9h
+   Time gap: 14.12 days
+
+62. Location: (-30°N, 120°E)
+   Eclipse 1: lunar on 3041 BC 10-27 20.6h
+   Eclipse 2: solar on 3041 BC 11-11 2.1h
+   Time gap: 14.23 days
+
+63. Location: (0°N, -45°E)
+   Eclipse 1: solar on 3040 BC 05-06 13.6h
+   Eclipse 2: lunar on 3040 BC 05-20 20.9h
+   Time gap: 14.30 days
+
+64. Location: (45°N, -135°E)
+   Eclipse 1: lunar on 3039 BC 04-11 7.2h
+   Eclipse 2: solar on 3039 BC 04-25 14.2h
+   Time gap: 14.29 days
+
+65. Location: (45°N, -45°E)
+   Eclipse 1: solar on 3039 BC 09-20 19.7h
+   Eclipse 2: lunar on 3039 BC 10-04 20.9h
+   Time gap: 14.05 days
+
+66. Location: (30°N, -165°E)
+   Eclipse 1: solar on 3038 BC 09-10 2.6h
+   Eclipse 2: lunar on 3038 BC 09-24 5.1h
+   Time gap: 14.10 days
+
+67. Location: (-15°N, 135°E)
+   Eclipse 1: lunar on 3037 BC 08-15 9.0h
+   Eclipse 2: solar on 3037 BC 08-30 3.0h
+   Time gap: 14.75 days
+
+68. Location: (-15°N, 120°E)
+   Eclipse 1: solar on 3037 BC 08-30 3.0h
+   Eclipse 2: lunar on 3037 BC 09-13 19.2h
+   Time gap: 14.68 days
+
+69. Location: (-60°N, 75°E)
+   Eclipse 1: lunar on 3036 BC 08-03 23.9h
+   Eclipse 2: solar on 3036 BC 08-18 3.0h
+   Time gap: 14.13 days
+
+70. Location: (-60°N, -15°E)
+   Eclipse 1: lunar on 3035 BC 07-24 9.6h
+   Eclipse 2: solar on 3035 BC 08-07 9.3h
+   Time gap: 13.99 days
+
+71. Location: (-60°N, -135°E)
+   Eclipse 1: solar on 3034 BC 01-03 1.3h
+   Eclipse 2: lunar on 3034 BC 01-17 6.7h
+   Time gap: 14.22 days
+
+72. Location: (60°N, -165°E)
+   Eclipse 1: solar on 3034 BC 06-28 13.7h
+   Eclipse 2: lunar on 3034 BC 07-13 12.2h
+   Time gap: 14.93 days
+
+73. Location: (-45°N, -180°E)
+   Eclipse 1: lunar on 3034 BC 12-08 13.6h
+   Eclipse 2: solar on 3034 BC 12-23 1.1h
+   Time gap: 14.48 days
+
+74. Location: (0°N, 90°E)
+   Eclipse 1: solar on 3033 BC 06-18 6.2h
+   Eclipse 2: lunar on 3033 BC 07-02 12.1h
+   Time gap: 14.25 days
+
+75. Location: (60°N, -30°E)
+   Eclipse 1: lunar on 3032 BC 11-16 9.6h
+   Eclipse 2: solar on 3032 BC 11-30 12.3h
+   Time gap: 14.11 days
+
+76. Location: (60°N, 0°E)
+   Eclipse 1: solar on 3031 BC 04-27 9.5h
+   Eclipse 2: lunar on 3031 BC 05-11 21.1h
+   Time gap: 14.48 days
+
+77. Location: (-60°N, -180°E)
+   Eclipse 1: solar on 3031 BC 10-21 16.4h
+   Eclipse 2: lunar on 3031 BC 11-05 9.6h
+   Time gap: 14.72 days
+
+78. Location: (-60°N, 75°E)
+   Eclipse 1: lunar on 3028 BC 03-11 0.1h
+   Eclipse 2: solar on 3028 BC 03-25 6.1h
+   Time gap: 14.25 days
+
+79. Location: (60°N, 15°E)
+   Eclipse 1: lunar on 3028 BC 09-03 18.4h
+   Eclipse 2: solar on 3028 BC 09-18 16.6h
+   Time gap: 14.93 days
+
+80. Location: (0°N, -75°E)
+   Eclipse 1: solar on 3027 BC 02-13 16.1h
+   Eclipse 2: lunar on 3027 BC 02-28 0.7h
+   Time gap: 14.35 days
+
+81. Location: (30°N, -165°E)
+   Eclipse 1: lunar on 3025 BC 07-04 7.3h
+   Eclipse 2: solar on 3025 BC 07-18 22.1h
+   Time gap: 14.62 days
+
+82. Location: (-60°N, 105°E)
+   Eclipse 1: solar on 3024 BC 06-08 5.7h
+   Eclipse 2: lunar on 3024 BC 06-22 8.0h
+   Time gap: 14.10 days
+
+83. Location: (-60°N, -90°E)
+   Eclipse 1: solar on 3023 BC 05-28 16.5h
+   Eclipse 2: lunar on 3023 BC 06-11 14.8h
+   Time gap: 13.93 days
+
+84. Location: (-30°N, -15°E)
+   Eclipse 1: lunar on 3023 BC 11-07 4.8h
+   Eclipse 2: solar on 3023 BC 11-21 10.9h
+   Time gap: 14.25 days
+
+85. Location: (0°N, -150°E)
+   Eclipse 1: solar on 3022 BC 05-17 20.2h
+   Eclipse 2: lunar on 3022 BC 06-01 4.6h
+   Time gap: 14.35 days
+
+86. Location: (45°N, -180°E)
+   Eclipse 1: lunar on 3021 BC 04-22 14.6h
+   Eclipse 2: solar on 3021 BC 05-06 20.7h
+   Time gap: 14.25 days
+
+87. Location: (45°N, -180°E)
+   Eclipse 1: solar on 3021 BC 10-02 4.5h
+   Eclipse 2: lunar on 3021 BC 10-16 5.4h
+   Time gap: 14.04 days
+
+88. Location: (15°N, 60°E)
+   Eclipse 1: solar on 3020 BC 09-20 10.9h
+   Eclipse 2: lunar on 3020 BC 10-04 14.0h
+   Time gap: 14.13 days
+
+89. Location: (-15°N, 15°E)
+   Eclipse 1: lunar on 3019 BC 08-25 17.7h
+   Eclipse 2: solar on 3019 BC 09-09 11.0h
+   Time gap: 14.72 days
+
+90. Location: (-15°N, 0°E)
+   Eclipse 1: solar on 3019 BC 09-09 11.0h
+   Eclipse 2: lunar on 3019 BC 09-24 4.2h
+   Time gap: 14.72 days
+
+91. Location: (-60°N, -60°E)
+   Eclipse 1: lunar on 3018 BC 08-15 8.3h
+   Eclipse 2: solar on 3018 BC 08-29 11.1h
+   Time gap: 14.11 days
+
+92. Location: (-60°N, -150°E)
+   Eclipse 1: lunar on 3017 BC 08-04 17.5h
+   Eclipse 2: solar on 3017 BC 08-18 17.7h
+   Time gap: 14.01 days
+
+93. Location: (-60°N, -180°E)
+   Eclipse 1: solar on 3016 BC 01-14 8.6h
+   Eclipse 2: lunar on 3016 BC 01-28 14.6h
+   Time gap: 14.25 days
+
+94. Location: (-45°N, 30°E)
+   Eclipse 1: lunar on 3016 BC 12-18 22.1h
+   Eclipse 2: solar on 3015 BC 01-02 8.5h
+   Time gap: 14.43 days
+
+95. Location: (0°N, -15°E)
+   Eclipse 1: solar on 3015 BC 06-28 14.1h
+   Eclipse 2: lunar on 3015 BC 07-12 19.4h
+   Time gap: 14.22 days
+
+96. Location: (60°N, -165°E)
+   Eclipse 1: lunar on 3014 BC 11-27 17.7h
+   Eclipse 2: solar on 3014 BC 12-11 20.7h
+   Time gap: 14.13 days
+
+97. Location: (-60°N, 45°E)
+   Eclipse 1: solar on 3013 BC 11-02 1.4h
+   Eclipse 2: lunar on 3013 BC 11-16 17.7h
+   Time gap: 14.68 days
+
+98. Location: (-60°N, -45°E)
+   Eclipse 1: lunar on 3010 BC 03-22 6.6h
+   Eclipse 2: solar on 3010 BC 04-05 13.6h
+   Time gap: 14.29 days
+
+99. Location: (60°N, -120°E)
+   Eclipse 1: lunar on 3010 BC 09-15 3.4h
+   Eclipse 2: solar on 3010 BC 09-30 0.8h
+   Time gap: 14.89 days
+
+100. Location: (15°N, -180°E)
+   Eclipse 1: solar on 3009 BC 02-24 23.8h
+   Eclipse 2: lunar on 3009 BC 03-11 7.2h
+   Time gap: 14.31 days
+
+101. Location: (30°N, 75°E)
+   Eclipse 1: lunar on 3007 BC 07-14 14.5h
+   Eclipse 2: solar on 3007 BC 07-29 6.5h
+   Time gap: 14.67 days
+
+102. Location: (-60°N, 0°E)
+   Eclipse 1: solar on 3006 BC 06-19 13.4h
+   Eclipse 2: lunar on 3006 BC 07-03 15.3h
+   Time gap: 14.08 days
+
+103. Location: (-60°N, 150°E)
+   Eclipse 1: solar on 3005 BC 06-08 23.6h
+   Eclipse 2: lunar on 3005 BC 06-22 22.4h
+   Time gap: 13.95 days
+
+104. Location: (-45°N, -135°E)
+   Eclipse 1: lunar on 3005 BC 11-18 12.9h
+   Eclipse 2: solar on 3005 BC 12-02 19.5h
+   Time gap: 14.28 days
+
+105. Location: (0°N, 120°E)
+   Eclipse 1: solar on 3004 BC 05-28 2.8h
+   Eclipse 2: lunar on 3004 BC 06-11 12.4h
+   Time gap: 14.40 days
+
+106. Location: (45°N, 30°E)
+   Eclipse 1: lunar on 3003 BC 05-02 22.1h
+   Eclipse 2: solar on 3003 BC 05-17 3.3h
+   Time gap: 14.22 days
+
+107. Location: (45°N, 60°E)
+   Eclipse 1: solar on 3003 BC 10-12 13.2h
+   Eclipse 2: lunar on 3003 BC 10-26 13.9h
+   Time gap: 14.03 days
+
+108. Location: (15°N, -75°E)
+   Eclipse 1: solar on 3002 BC 10-01 19.3h
+   Eclipse 2: lunar on 3002 BC 10-15 22.8h
+   Time gap: 14.15 days
+
+109. Location: (-15°N, -120°E)
+   Eclipse 1: lunar on 3001 BC 09-06 2.6h
+   Eclipse 2: solar on 3001 BC 09-20 19.1h
+   Time gap: 14.69 days
+
+110. Location: (-15°N, -120°E)
+   Eclipse 1: solar on 3001 BC 09-20 19.1h
+   Eclipse 2: lunar on 3001 BC 10-05 13.3h
+   Time gap: 14.76 days
+
+111. Location: (-60°N, -180°E)
+   Eclipse 1: lunar on 3000 BC 08-26 16.8h
+   Eclipse 2: solar on 3000 BC 09-09 19.2h
+   Time gap: 14.10 days
+
+112. Location: (-60°N, 75°E)
+   Eclipse 1: lunar on 2999 BC 08-16 1.4h
+   Eclipse 2: solar on 2999 BC 08-30 2.1h
+   Time gap: 14.03 days

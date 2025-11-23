@@ -1,0 +1,12 @@
+Finding all eclipses before 3000 BC...
+Found 520 total eclipses
+
+Searching for pairs within 15 days...
+Testing 60 locations worldwide
+
+================================================================================
+FINAL RESULTS
+================================================================================
+
+No pairs found. This suggests the visibility criteria may be too strict,
+or such pairs are extremely rare in this time period.
