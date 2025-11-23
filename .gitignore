@@ -24,3 +24,7 @@ Thumbs.db
 
 # Project specific - keep results but ignore large output files
 # (keeping final_results.txt as it's the main output)
+
+# Claude Code conversations (may contain PII)
+claude-conversations/
+.claude/
