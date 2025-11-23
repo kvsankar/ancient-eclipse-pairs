@@ -2,6 +2,12 @@
 
 Find pairs of eclipses (solar and/or lunar) visible from the same location within a specified time period, focusing on ancient historical dates before 3000 BC.
 
+## Human Note
+
+A friend asked me if AI can find two instances of eclipse from same location before 3000 BC within 15 day period. Eclipse can be either lunar or solar.
+I told him that it was possible and that it would need agentic AI. Here's the result with Claude Code. My contribution is some iterative prompting
+and this paragraph called "Human Note."
+
 ## The Challenge
 
 > "Find two instances of eclipse from same location before 3000 BC within 15 day period. Eclipse can be both lunar and solar."
